@@ -1,0 +1,22 @@
+body { 
+    color:green;
+    font-family: arial;
+    margin: 0px;
+}   
+div {
+
+    
+    background-color:aquamarine;
+border: dashed 10px brown;
+}
+.second-div {
+    background-color:pink;
+}
+  #second-li {
+      font-size: 30px;
+  }
+  img{
+  width: 300px;
+  
+  border-radius:50px;
+  }
